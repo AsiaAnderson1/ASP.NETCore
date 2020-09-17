@@ -1,0 +1,7 @@
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.csprojAssemblyReference.cache
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.AssemblyInfoInputs.cache
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.AssemblyInfo.cs
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.csproj.CoreCompileInputs.cache
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.RazorAssemblyInfo.cache
+C:\Users\Asia\Projects\2-1\PriceQuotationApp\PriceQuotationApp\obj\Debug\netcoreapp3.1\PriceQuotationApp.RazorAssemblyInfo.cs
