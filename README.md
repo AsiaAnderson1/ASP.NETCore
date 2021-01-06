@@ -1,4 +1,2 @@
 # ASP.NET
-Projects using ASP.NET
-
-IT2030 ASP.NET Fall 2020 Semester
+This repository contains ASP.NET core projects from my student tenure.
